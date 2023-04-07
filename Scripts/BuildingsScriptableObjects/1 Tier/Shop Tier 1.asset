@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54318c7651c0ac44e995cc8dbcb76e6a, type: 3}
+  m_Name: Shop Tier 1
+  m_EditorClassIdentifier: 
+  _buildingName: Shop
+  _buildingImage: {fileID: 21300000, guid: 112d78faf39c2b94cb1b7cdf057b21c8, type: 3}
+  _buildingModel: {fileID: 1110526534057384990, guid: e139276d6ffbb5c478a2e1f705739a68,
+    type: 3}
+  _buildingCost: 50
+  "_\u0441itizenSlot": 0

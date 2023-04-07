@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainMenuText Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainMenuText
+  m_TableCollectionNameGuidString: 69b6bbf1d0dd18b44aa61ee79013ca46
+  m_Entries:
+  - m_Id: 230504394752
+    m_Key: NewGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3833042432000
+    m_Key: LoadGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4412976263168
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4660213706752
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260563844329472
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 261957674463232
+    m_Key: Sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262744332955648
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 499107481382912
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2171904410146832394
+  references:
+    version: 2
+    RefIds:
+    - rid: 2171904410146832394
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1679871270051

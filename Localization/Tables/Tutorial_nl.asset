@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: 8d77cf95936a50e46b33b37b035c8d73, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9418436608
+    m_Localized: 'welkom bij de tiny towny-tutorial
+
+
+      om uw eerste gebouw te
+      maken, kiest u House in het paneel hieronder en klikt u op het gewenste veld'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6397658001408
+    m_Localized: 'Gefeliciteerd! Je hebt je eerste gebouw gebouwd
+
+
+      Zoals je
+      misschien hebt gemerkt, staat er naast elk gebouw in het paneel een nummer.
+      Dit zijn de kosten van het bouwen van een gebouw'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130283976388608
+    m_Localized: Ook kun je gebouwen verbeteren. Ga hiervoor naar het tabblad update
+      hieronder. Selecteer een House in het paneel en klik op het huis op het speelveld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131832890912768
+    m_Localized: Je hebt het gedaan! Maar dat zijn niet alle mogelijke verbeteringen
+      voor gebouwen. Bouw nog een verbeterd huis links of rechts van het bestaande
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133020164157440
+    m_Localized: Ga dan naar het best tabblad. Kies House en klik op een van de bestaande
+      huizen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134243269341184
+    m_Localized: In de linkerbovenhoek zie je hoeveel geld je hebt, het aantal inwoners
+      en woonruimten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135216108793856
+    m_Localized: En om de inkomsten van burgers te vergroten - bouw kantoren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135750278574080
+    m_Localized: In de rechterbovenhoek ziet u een waarschuwing. Dit betekent dat
+      er criminelen in de stad zijn. Ook in het spel kan de incidentie van ziekte
+      toenemen of de tevredenheid afnemen, waarvoor u ook wordt gewaarschuwd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136819993866240
+    m_Localized: Om de misdaad te weerstaan, kun je politiebureaus bouwen. Ziekenhuizen
+      helpen tegen ziekten, en parken en scholen verhogen de tevredenheid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138533731954688
+    m_Localized: Gefeliciteerd! Je hebt de misdaad in de stad verslagen en nu ken
+      je bijna alle basisprincipes van het spel. Ik zal alleen zeggen dat scholen
+      en universiteiten de productiviteit van een burger in de loop van de tijd verhogen.
+      Maar voor het onderhoud van de politie, ziekenhuizen, scholen en universiteiten
+      is geld nodig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140327044378624
+    m_Localized: 'Probeer het evenwicht te bewaren en breng de bevolking in de stad
+      naar 1.000 burgers om te winnen.
+
+
+      Bouw de beste stad en ga de strijd
+      aan met je vrienden om te zien wie de beste stad heeft
+
+      Succes!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

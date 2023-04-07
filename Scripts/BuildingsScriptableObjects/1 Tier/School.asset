@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54318c7651c0ac44e995cc8dbcb76e6a, type: 3}
+  m_Name: School
+  m_EditorClassIdentifier: 
+  _buildingName: School
+  _buildingImage: {fileID: 21300000, guid: 76bd06f5501099440b8c1f297f32898d, type: 3}
+  _buildingModel: {fileID: 8675024984294255668, guid: d038a02eebe8929479c1c1215e73efec,
+    type: 3}
+  _buildingCost: 25
+  "_\u0441itizenSlot": 0

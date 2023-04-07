@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenuText_uk
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: uk
+  m_SharedData: {fileID: 11400000, guid: 69b6bbf1d0dd18b44aa61ee79013ca46, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2171904428131745795
+  m_TableData:
+  - m_Id: 230504394752
+    m_Localized: "\u041D\u043E\u0432\u0430 \u0433\u0440\u0430"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3833042432000
+    m_Localized: "\u0417\u0430\u0432\u0430\u043D\u0442\u0430\u0436\u0438\u0442\u0438"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4412976263168
+    m_Localized: "\u041D\u0430\u043B\u0430\u0448\u0442\u0443\u0432\u0430\u043D\u043D\u044F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4660213706752
+    m_Localized: "\u0412\u0438\u0445\u0456\u0434"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260563844329472
+    m_Localized: "\u041D\u0430\u0437\u0430\u0434"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 261957674463232
+    m_Localized: "\u0417\u0432\u0443\u043A\u0438: {0}"
+    m_Metadata:
+      m_Items:
+      - rid: 2171904428131745795
+  - m_Id: 262744332955648
+    m_Localized: "\u041C\u0443\u0437\u0438\u043A\u0430: {0}"
+    m_Metadata:
+      m_Items:
+      - rid: 2171904428131745795
+  - m_Id: 499107481382912
+    m_Localized: "\u041C\u043E\u0432\u0430"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2171904428131745795
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00f021c63fee000000f0a1eef6ee0000

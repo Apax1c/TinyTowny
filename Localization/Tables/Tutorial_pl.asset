@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 8d77cf95936a50e46b33b37b035c8d73, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9418436608
+    m_Localized: 'Witamy w samouczku Tiny Towny
+
+
+      aby stworzyc swoj pierwszy
+      budynek wybierz House z panelu ponizej i kliknij na zadane pole'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6397658001408
+    m_Localized: 'Gratulacje! Zbudowales swoj pierwszy budynek
+
+
+      Jak byc moze
+      zauwazyles, obok kazdego budynku na panelu widnieje liczba. To jest koszt budowy
+      budynku'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130283976388608
+    m_Localized: "Mozesz takze ulepszac budynki. W tym celu przejdz do zakladki Update
+      poni\u017Cej. Wybierz House w panelu i kliknij dom na boisku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131832890912768
+    m_Localized: Zrobiles to! Ale to nie wszystkie mozliwe ulepszenia budynkow. Zbuduj
+      kolejny ulepszony dom po lewej lub prawej stronie istniejacego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133020164157440
+    m_Localized: Nastepnie przejdz do zakladki Best. Wybierz House i kliknij na jeden
+      z istniejacych domow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134243269341184
+    m_Localized: W lewym gornym rogu mozesz zobaczyc ile masz pieniedzy, liczbe mieszkancow
+      i kwater mieszkalnych
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135216108793856
+    m_Localized: Aby zwiekszyc dochody obywateli - buduj biura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135750278574080
+    m_Localized: "W prawym g\xF3rnym rogu wida\u0107 ostrze\u017Cenie. Oznacza to,
+      ze w miescie grasuja przest\u0119pcy. Rowniez w grze moze zwiekszyc sie czestotliwosc
+      zachorowan lub zmniejszyc zadowolenie, o czym rowniez zostaniesz ostrzezony"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136819993866240
+    m_Localized: "Aby przeciwstawic sie przestepczosci, mozesz budowac posterunki
+      policji. Szpitale pomagaja zapobiegac chorobom, a parki i szko\u0142y zwiekszaja
+      zadowolenie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138533731954688
+    m_Localized: Gratulacje! Pokonales przestepczosc w miescie i znasz juz prawie
+      wszystkie podstawy gry. Powiem tylko, ze szkoly i uczelnie z czasem zwiekszaja
+      produktywnosc obywatela. Ale na utrzymanie policji, szpitali, szkol i uniwersytetow
+      potrzebne sa pieniadze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140327044378624
+    m_Localized: 'Postaraj sie zachowac rownowage i sprowadz populacje miasta do
+      1000 mieszkancow, aby wygrac.
+
+
+      Zbuduj najwieksze miasto i rywalizuj
+      ze znajomymi, aby zobaczyc, kto ma najlepsze miasto
+
+      Powodzenia!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

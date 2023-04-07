@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 8d77cf95936a50e46b33b37b035c8d73, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9418436608
+    m_Localized: "Willkommen bei Tiny Towny Tutorial\r\n\r\num ihr erstes gebaude
+      zu erstellen, w\xE4hlen sie House aus dem feld unten und klicken sie auf das
+      gewunschte feld"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6397658001408
+    m_Localized: 'Gluckwunsch! Sie haben Ihr erstes Gebaude gebaut
+
+
+      Wie Sie
+      vielleicht bemerkt haben, steht neben jedem Gebaude in der Tafel eine Nummer.
+      Dies sind die Kosten fur den Bau eines Gebaudes'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130283976388608
+    m_Localized: Ausserdem konnen Sie Gebaude verbessern. Gehen Sie dazu unten auf
+      die Registerkarte Update. Wahlen Sie House im Panel aus und klicken Sie auf
+      das Haus auf dem Spielfeld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131832890912768
+    m_Localized: Du hast es geschafft! Aber das sind noch nicht alle moglichen Verbesserungen
+      fur Gebaude. Baue ein weiteres verbessertes Haus links oder rechts neben dem
+      bestehenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133020164157440
+    m_Localized: Gehen Sie dann auf die Registerkarte Best. Wahlen Sie House aus
+      und klicken Sie auf eines der vorhandenen Hauser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134243269341184
+    m_Localized: In der oberen linken Ecke sehen Sie, wie viel Geld Sie haben, die
+      Anzahl der Einwohner und Wohnraume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135216108793856
+    m_Localized: "Und um das Einkommen der Burger zu erhohen - B\xFCros bauen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135750278574080
+    m_Localized: In der oberen rechten Ecke sehen Sie eine Warnung. Das bedeutet,
+      dass es Kriminelle in der Stadt gibt. Auch im Spiel kann das Auftreten von
+      Krankheiten zunehmen oder die Zufriedenheit sinken, wovor Sie ebenfalls gewarnt
+      werden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136819993866240
+    m_Localized: Um Verbrechen zu widerstehen, konnen Sie Polizeistationen bauen.
+      Krankenhauser helfen gegen Krankheiten, Parks und Schulen steigern die Zufriedenheit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138533731954688
+    m_Localized: Gluckwunsch! Du hast das Verbrechen in der Stadt besiegt und kennst
+      jetzt fast alle Grundlagen des Spiels. Ich werde nur sagen, dass Schulen und
+      Universitaten die Produktivitat eines Burgers im Laufe der Zeit steigern. Aber
+      fur den Unterhalt von Polizei, Krankenhausern, Schulen und Universitaten wird
+      Geld benotigt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140327044378624
+    m_Localized: 'Versuchen Sie, das Gleichgewicht zu halten und die Bevolkerung
+      in der Stadt auf 1.000 Burger zu bringen, um zu gewinnen.
+
+
+      Baue die
+      tollste Stadt und wetteifere mit deinen Freunden darum, wer die beste Stadt
+      hat
+
+      Viel Gluck!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
