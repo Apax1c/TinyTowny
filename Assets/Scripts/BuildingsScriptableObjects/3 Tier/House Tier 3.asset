@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81b4a60fce4799d4da0e2ab3e1ac0a92, type: 3}
+  m_Name: House Tier 3
+  m_EditorClassIdentifier: 
+  _buildingName: House
+  _buildingModel: {fileID: 6453474865205971511, guid: 3dcae8f2b598c09418ba2c407db5c357,
+    type: 3}
+  _buildingUpgradedModel: {fileID: 164401898336277511, guid: 5ed6f73193ea3274e93eff0518741fd7,
+    type: 3}
+  _buildingImage: {fileID: 21300000, guid: d6af020dcb2727a4788ed04c41ab70d8, type: 3}
+  _buildingCost: 50
+  "_\u0441itizenSlot": 35

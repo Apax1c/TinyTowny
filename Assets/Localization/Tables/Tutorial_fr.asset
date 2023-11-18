@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 8d77cf95936a50e46b33b37b035c8d73, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9418436608
+    m_Localized: 'bienvenue dans le tutoriel de Tiny Towny
+
+
+      pour creer votre
+      premier batiment, choisissez House dans le panneau ci-dessous et cliquez sur
+      le champ souhaite'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6397658001408
+    m_Localized: 'Toutes nos felicitations! Vous avez construit votre premier batiment
+
+
+      Comme
+      vous l''avez peut-etre remarque, un numero est ecrit a cote de chaque batiment
+      dans le panneau. C''est le coot de la construction d''un batiment'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130283976388608
+    m_Localized: En outre, vous pouvez ameliorer les batiments. Pour cela, rendez-vous
+      dans l'onglet Update ci-dessous. Selectionnez une House dans le panneau et
+      cliquez sur la maison sur le terrain de jeu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131832890912768
+    m_Localized: Tu l'as fait! Mais ce ne sont pas toutes les ameliorations possibles
+      pour les batiments. Construire une autre maison amelioree a gauche ou a droite
+      de celle existante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133020164157440
+    m_Localized: Allez ensuite dans l'onglet Best. Choisissez House et cliquez sur
+      une des maisons existantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134243269341184
+    m_Localized: Dans le coin superieur gauche, vous pouvez voir combien d'argent
+      vous avez, le nombre d'habitants et de logements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135216108793856
+    m_Localized: Et pour augmenter les revenus des citoyens - construisez des bureaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135750278574080
+    m_Localized: Dans le coin superieur droit, vous pouvez voir un avertissement.
+      Cela signifie qu'il y a des criminels en ville. Egalement dans le jeu peut
+      augmenter l'incidence de la maladie ou diminuer le contentement, dont vous
+      serez egalement averti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136819993866240
+    m_Localized: Pour resister au crime, vous pouvez construire des postes de police.
+      Les hopitaux aident a lutter contre les maladies, et les parcs et les ecoles
+      augmentent le contentement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138533731954688
+    m_Localized: Toutes nos felicitations! Vous avez vaincu le crime dans la ville
+      et maintenant vous connaissez presque toutes les bases du jeu. Je dirai seulement
+      que les ecoles et les universites augmentent la productivite d'un citoyen au
+      fil du temps. Mais pour l'entretien de la police, des hopitaux, des ecoles
+      et des universites, il faut de l'argent.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140327044378624
+    m_Localized: 'Essayez de garder un equilibre et d''amener la population de la
+      ville a 1 000 citoyens pour gagner.
+
+
+      Construisez la plus grande ville
+      et affrontez vos amis pour voir qui a la meilleure ville
+
+      Bonne chance!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
